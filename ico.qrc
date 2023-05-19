@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/convert_ico">
+        <file>convert.ico</file>
+    </qresource>
+</RCC>
